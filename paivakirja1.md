@@ -6,6 +6,8 @@ __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppi
 
 3 Harjoituksessa jouduin peruuttelemaan tehtyjä muutoksia. Kaikki onnistui aika suoraviivaisesti, sillä tein tehtävät askel askeleelta kurssimateriaalin esimerkkien mukaisesti. Vaikeinta on ehkä muistaa reset-, restore- ja revert-komentojen erot. Minulle uusi ja todella kätevä juttu oppia oli, että committien koko tunnistetta ei tarvitse kirjoittaa komennoissa, vaan seitsemän ensimmäistä merkkiä riittää.
 
+4 Osiossa loin uuden tyylit-haaran ja vaihtelin sen ja mainin välillä. Materiaalin lukemisen jälkeen aihe tuntui hieman sekavalta, mutta harjoitusten parissa kokeilemisen jälkeen se alkoi hahmottua paremmin.
+
 
 ## Osiossa käyttämäni Git-komennot
 
@@ -22,3 +24,6 @@ __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppi
 | git restore | poistaa tehdyt muutokset ja palauttaa tiedostot aikaisempaan tilaan |
 | git reset --hard | poistaa kaikki työtilaan tehdyt muutokset  |
 | git revert| kumoaa aikaisemman commitin |
+| git branch tyylit| luo uuden 'tyylit' haaran |
+| git switch main/tyylit| vaihtaa toiseen haaraan |
+| git merge --no-ff tyylit| yhdistää tyylit-haaran muutokset mainiin ja näyttää sen versionhistoriassa |
