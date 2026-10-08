@@ -4,7 +4,7 @@ Tekijä: Nina Negahdar
 
 Tämä repositorio sisältää Git-kurssin oppimispäiväkirjatehtävät 1–3.
 
-Tehtävät on tehty omissa haaroissa:
-paivakirja1 – oppimispäiväkirjatehtävä 2-4
-paivakirja2 – oppimispäiväkirjatehtävä 5
-paivakirja3 – oppimispäiväkirjatehtävä 6-7
+
+[Oppimispäiväkirja 1](paivakirja1.md)
+[Oppimispäiväkirja 2](paivakirja2.md)
+[Oppimispäiväkirja 3](paivakirja3.md)
